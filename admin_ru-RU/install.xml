@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" client="administrator" type="language" method="upgrade">
+	<name>Russian</name>
+	<tag>ru-RU</tag>
+	<version>1.1.0</version>
+	<creationDate>2015-10-25</creationDate>
+	<author>Denis E Mokhin</author>
+	<authorEmail>denis@mokh.in</authorEmail>
+	<authorUrl>http://mokh.in</authorUrl>
+	<copyright>Copyright (C) 2015 Denis E Mokhin. All rights reserved</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>Russian Language Pack (administrator) for EasyTimetable 1.1.0</description>
+	<files>
+		<filename>index.html</filename>
+		<filename>ru-RU.com_easytimetable.ini</filename>
+		<filename>ru-RU.com_easytimetable.sys.ini</filename>
+		<filename file="meta">install.xml</filename>		
+	</files>
+</extension>

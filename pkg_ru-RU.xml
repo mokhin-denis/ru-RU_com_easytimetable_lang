@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension version="3.4" type="package" method="upgrade">
+	<name>EasyTimetable Russian Language Pack</name>
+	<packagename>ru-RU</packagename>
+	<version>1.1.0</version>
+	<url>http://mokh.in</url>
+	<packager>Denis E Mokhin</packager>
+	<packagerurl>http://mokh.in</packagerurl>
+	<description>Easy Timetable Russian Language Package</description>
+	<files>
+		<file type="language" client="site" id="ru-RU">site_ru-RU.zip</file>
+		<file type="language" client="administrator" id="ru-RU">admin_ru-RU.zip</file>
+	</files>
+</extension>
